@@ -1,7 +1,5 @@
 package com.epam.swaroop_OOPS.chocolates;
 
-//package com.epam.rahulghosh_maven_OOPS.chocolates;
-
 import com.epam.swaroop_OOPS.chocolates.Chocolate;
 
 public class Chocolate implements Comparable<Chocolate> {

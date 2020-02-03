@@ -1,6 +1,5 @@
 package com.epam.swaroop_OOPS.gift;
 
-//package com.epam.rahulghosh_maven_OOPS.gift;
 import com.epam.swaroop_OOPS.chocolates.Chocolate;
 import com.epam.swaroop_OOPS.sweets.Sweets;
 
